@@ -65,4 +65,8 @@ body {
 .box ul li a:hover { 
     color: #b9b9b9;
     transform: scale(1.1);
+}  
+
+.boxyoutube ul p {  
+    text-align: center;
 }
